@@ -1,0 +1,22 @@
+{
+            "mappings": {
+            "translation": {
+            "dynamic": "strict",
+                        "properties": {
+                               "title":  { "type":"string"},
+                               "file_path" : {"type":"string"},
+                               "language_id": {"type":"number"},
+                               "author_id": {"type":"number"},
+                               "annotations": {"type":"object", "dynamic":true},
+                               "author_name" : {"type":"string"},
+                               "author_surname" : {"type":"string"},
+                               "author_born_date" : {"type":"string"},
+                               "author_death_date" : {"type":"string"},
+                               "language" : {"type":"string"},
+                               "nazionalita_id" : {"type":"number"},
+                               "nazionalita" : {"type":"string"},
+                               "content": {"type":"object", "dynamic":true}
+                        }
+            }
+            }
+}

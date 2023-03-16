@@ -1,0 +1,17 @@
+ADMIN SITO SIT ITALY:
+
+	user : info@sit-italy.com	pass : SIT-Admin@2019
+	urs : https://www.sit-italy.com/wp-admin
+
+
+ADMIN SPAZIO CLIENTE:
+
+	user : SitTravel
+	pass : Hdt4d1%4
+	url :  https://server.ividesign.it:8443/
+
+FTP :
+
+        user : sit-italy.com
+        pass : va5H9l3_
+        host : ftp.sit-italy.com
